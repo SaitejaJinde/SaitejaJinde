@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋, I'm Omkar Tavva
 
-<!--
-**SaitejaJinde/SaitejaJinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate engineering student from India 🇮🇳
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Flutter & Android Development  
+- 📫 Reach me at: omkartavva@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[LinkedIn](https://linkedin.com/in/your-link)
+
+### Languages & Tools:
+![C](https://img.shields.io/badge/-C-blue)
+![Flutter](https://img.shields.io/badge/-Flutter-skyblue)
+![Python](https://img.shields.io/badge/-Python-yellow)
