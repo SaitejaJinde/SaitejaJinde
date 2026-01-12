@@ -49,9 +49,6 @@ Below are examples you can list too:
 
 ---
 
-## 📊 GitHub Stats (Optional)
-
-![Saiteja’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaitejaJinde&show_icons=true&theme=dark)
 
 ---
 
