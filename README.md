@@ -1,4 +1,4 @@
-## Hi 👋, I'm Omkar Tavva
+## Hi 👋, I'm Sai Teja Jinde
 
 A passionate engineering student from India 🇮🇳
 
