@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Sai Teja Jinde
 
-I’m an **Engineering Student (IT)** passionate about building cool software and exploring new technologies. 🇮🇳 :contentReference[oaicite:0]{index=0}
-
----
+I’m an **Engineering Student (IT)** passionate about building cool software and exploring new technologies. 
 
 ## 💻 About Me
 
