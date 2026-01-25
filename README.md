@@ -4,7 +4,7 @@ I’m an **Engineering Student (IT)** passionate about building cool software an
 
 ## 💻 About Me
 
-- 🎓 Engineering student at Vignana Bharathi Institute of Technology (IT) :contentReference[oaicite:1]{index=1}
+- 🎓 Engineering student at Vignana Bharathi Institute of Technology (IT) 
 - 🌱 Currently exploring **Full Stack Web Development**, and **AI-powered apps**
 - 👨‍💻 Interested in **Python**, **Ai Development**, and  **LangChain**
 - 🚀 I love solving problems, building projects and learning every day!
